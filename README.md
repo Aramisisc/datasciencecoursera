@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo create for the project
+Repo created for the project
